@@ -1,6 +1,5 @@
 #Wish List Web Application - Codeigniter REST API and BackBone JS
 
-
 This is a simple wish list web application developed using Codeigniter REST API and Backbone JS library. This application allows a logged-in user to:
     1. Create a wish list
     2. Add an item to the wish list.
