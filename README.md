@@ -1,10 +1,4 @@
 # T & V Pizzeria Web Application
 
-This web app application supports the following operation
-
-- Weight
-  - Kilograms
-  - Grams
-  - Ounces
-  - Pounds
-  - Stone Pounds
+T&V Pizzeria is a web application that used for ordering pizza and appetizers. PHP, Code igniter and MySQL used for the implementation.
+ 
